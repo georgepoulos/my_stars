@@ -61,18 +61,49 @@
 * xaneem / lms | A web application featuring employee leave management for academic institutions. Built on Django.
 * agstrike / silverstrike | Finance Management Made Easy 
 * Frojd / django-react-templatetags | A quick way to add React components to your Django templates. 
-
+* Hutchr / Warehouse | django app for warehouse managment and eshop 
+* FredYang201 / Restful-APIs | scrapy django NBA, IMBD, etc 
+* ellmetha / django-machina | A Django forum engine for building powerful community driven websites. 
+* rq / django-rq | A simple app that provides django integration for RQ (Redis Queue)
+* awesto / django-shop | A Django based shop system
+* viewflow / viewflow | Reusable workflow library for Django 
+* MicroPyramid / Django-CRM | Open Source Python CRM based on Django 
+* jieter / django-tables2 | django-tables2 - An app for creating HTML tables
+* groveco / django-sql-explorer | Easily share data across your company via SQL queries. From Grove Collab.
+* onlyabdullah / nuanalytica | sentiment analysis
+* AnishDixit / Twitter-Sentiment-Analyzer | Sentiment analysis to determine polarity of tweets returned for a particular keyword using Twitter's API, the Tweepy python library, and Natural Language Processing. 
+* Politiwatch / polititweet | Revamped version of Polititweet.org 
+* news-catalyst / openalerts | Reliable and low-cost breaking news alert system for news organizations.
+* sajalsinghal7 / TwitterLiveStreaming 
+* josircg / twitsearch | Busca e Análise de Opiniões a partir da rede do Twitter 
+* fieldsight / fieldsight | FieldSight Web Application 
+* encode / django-vanilla-views | Beautifully simple class-based views.
+* django / djangosnippets.org | The code that powers djangosnippets.org, it allows users to post and share useful "snippets" of code
+* raszidzie / Price-Tracker-Application | Discount Tracker app with Python/Django 
+* Rina450 / mangahub-downloader | Webapp based on Django and BeautifulSoup to download manga from mangahub.io 
+* pg-irc / pathways-backend | immigration project
+* organizerconnect / connect | A communication platform built for organizers 
+* sreesa7144 / SwapIt 
+* AcademicsToday / academicstoday-django | A open-source platform for online course-based learning and education. 
+* GGre / eplouribounistra | Webapp for managing serials deduplication in libraries - Utilitaire pour le dédoublonnement des périodiques en bibliothèques 
 * HackSoftware / Django-Styleguide | Django styleguide used in HackSoft projects 
+* theyogicoderRI / DjangoInchByInch | This is a comprehensive course on Django 2.0 
+* byashimov / django-controlcenter | Set of widgets to build dashboards for Django projects 
+* okfde / froide | Freedom Of Information Portal 
+
 
 #DATA 
 
-* great-expectations / great_expectations | Always know what to expect from your data. 
+* great-expectations / great_expectations | Always know what to expect from your data.
+
+
 
 #PYTHON
 
 * Seb943 / scrapeOP | A python package for scraping oddsportal.com 
 * edouardthom / ATPBetting | A strategy for tennis matches betting 
 * devinpleuler / analytics-handbook | Getting started with soccer analytics 
+* amotta11003 / fplanalytics | Fantasy Premier League Data Analytics Dashboard 
 * vishaalagartha / basketball_reference_scraper | A python module for scraping static and dynamic content from Basketball Reference. 
 * milesha / pacman 
 * hbokmann / Pacman 
@@ -102,6 +133,20 @@
 * IridiumIO / pyChart.js | Objective Chart.js implementation for Python and Django 
 * CoreyMSchafer / code_snippets 
 * RomelTorres / alpha_vantage | A python wrapper for Alpha Vantage API for financial data. 
+* LiuFang816 / SALSTM_py_data | python datasets for code completion 
+* Netflix / metaflow | Build and manage real-life data science projects with ease. 
+* tkrabel / bamboolib | bamboolib - a GUI for pandas DataFrames 
+* ehmatthes / pcc_2e | Online resources for Python Crash Course (Second Edition), from No Starch Press 
+* i-pan / kaggle-rsna18 | Code for 1st place solution in Kaggle RSNA Pneumonia Detection Challenge. 
+* streamlit / streamlit | Streamlit — The fastest way to build data apps in Python 
+* harismuneer / Ultimate-Facebook-Scraper | 🤖 A bot which scrapes almost everything about a Facebook user's profile including all public posts/statuses available on the user's timeline, uploaded photos, tagged photos, videos, friends list an
+* TheAlgorithms / Python | All Algorithms implemented in Python 
+* MKLab-ITI / greek-sentiment-lexicon | A lexicon to be used for sentiment analysis in Greek. 
+* Chulong-Li / Real-time-Sentiment-Tracking-on-Twitter-for-Brand-Improvement-and-Trend-Recognition | A real-time interactive web app based on data pipelines using streaming Twitter data, automated sentiment analysis, and MySQL&PostgreSQL database (Deployed on Heroku)  
+* tuxlimr / sonu1 | beautifulsoup pandas 
+* polimetrics / polimetrics | Polimetrics is a web application that performs sentiment analysis on Tweets to generate opinion polls for 2020 presidential primary candidates.
+* ghtmtt / DataPlotly | D3 like plots creation with plotly in QGIS 
+* bokeh / bokeh | Interactive Data Visualization in the browser, from Python 
 
 
 #GEOTOOLS
@@ -111,6 +156,10 @@
 * nextcloud / docker | ⛴ Docker image of Nextcloud 
 * tangrams / tangram | WebGL map rendering engine for creative cartography 
 * sentinelsat / sentinelsat | Search and download Copernicus Sentinel satellite images 
+* Zackhardtoname / airbnb_dataset_challenge | I got this data from airbnb website: http://insideairbnb.com/get-the-data.html 
+* gee-community / awesome-google-earth-engine| Curated list of Google Earth Engine resources 
+* gee-community / qgis-earthengine-plugin | Integrates Google Earth Engine and QGIS using Python API
+* wonder-sk / qgis-minimal-plugin | Minimalist plugin skeleton 
 
 
 #OTHER TOOLS
@@ -121,9 +170,16 @@
 * jeremyhahn / ecutools | IoT Automotive Tuning, Diagnostics & Analytics 
 * cedricp / ddt4all| OBD tool
 * gatsbyjs / gatsby | Build blazing fast, modern apps and websites with React 
+* eellak / gsoc2018-spacy | Greek language support for spacy.io python NLP software 
 * mou-gr / simple-print |Δημιουργία γενικού εκτυπωτικού χωρίς σύνδεση στη βάση 
 * Huachao / vscode-restclient | REST Client Extension for Visual Studio Code 
 * getredash / redash | Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. 
+* biolab / orange3 | 🍊 📊 💡 Orange: Interactive data analysis https://orange.biolab.si 
+* analysis-tools-dev / static-analysis | A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. 
+* braxex / immigration-visualizer | The US Immigration Visualizer displays US-bound immigration data by country. 
+* Cosecha / redadalertas | A web app for crowdsourcing immigration raid data. 
+
+
 
 #RESOURCES
 * Gr1mmie / Practical-Ethical-Hacking-Resources
@@ -135,4 +191,8 @@
 * The-Art-of-Hacking / h4cker | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerab
 * WindowsExploits / Exploits 
 * LeCoupa / awesome-cheatsheets | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file
+* amr-anish / We-will-create-what-we-want-to | many tutorials
+* EmreOvunc / Hacktrick2017 | Python for Hackers course sample codes.
+* 30-seconds / 30-seconds-of-python | Short Python code snippets for all your development needs
+* volaya / qgis-python-course 
 
